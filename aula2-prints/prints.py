@@ -1,0 +1,10 @@
+print(123)
+print('Victor', 'Martins')
+print('Victor', 'Martins', sep='-')
+print('trynda', 'mere', sep='-', end='')
+print('Ga', 'ren', sep='-', end='###')
+print('Da', 'rius', sep='-', end='###')
+
+print('Printador de CPF')
+print('824', '176', '070', sep='.', end='-')
+print('18')
